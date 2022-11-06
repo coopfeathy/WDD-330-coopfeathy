@@ -19,7 +19,9 @@ const links = [
   "<li>Week 5: <a href='week5/groupwork.html'>Group Assignment</a></li>",
   "<hr><li>Week 6: <a href='week6/challenge.html'>Challenge One: To Do</a></li>",
   "<hr><li>Week 7: <a href='week7/notes.html'>Notes</a></li>",
-  "<li>Week 7: <a href='week7/groupwork.html'>Group Assignment: Hiking</a></li>"
+  "<li>Week 7: <a href='week7/groupwork.html'>Group Assignment: Hiking</a></li>",
+  "<hr><li>Week 8: <a href='week8/notes.html'>Notes</a></li>",
+  "<li>Week 8: <a href='week8/swapi.html'>Group Assignment: Star Wars API</a></li>"
 
 ];
 document.getElementById("toclist").innerHTML = links.join("");
