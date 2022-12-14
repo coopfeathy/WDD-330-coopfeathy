@@ -27,6 +27,6 @@ const links = [
   "<hr><li>Week 10: <a href='week10/notes.html'>Notes</a></li>",
   "<li>Week 10: <a href='week10/groupwork/index.html'>Group Assignment: EarthQuake</a></li>",
   "<hr><li>Week 11: <a href='week11/groupwork/client/week11.html'>Group Assignment: Authentication</a></li>",
-
+  "<hr><li>Week 14: <a href='https://webuildwebsites.netlify.app'>Final Assignment: We Build Websites</a></li>"
 ];
 document.getElementById("toclist").innerHTML = links.join("");
